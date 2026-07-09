@@ -1,3 +1,9 @@
+> **Note from Jesse Qin:** This is a personal fork I keep for my own reference/use — I have not made any code contributions here. Full credit and all engineering work belongs to the original project below.
+>
+> **Original project:** https://github.com/xianyu110/awesome-openclaw-tutorial
+>
+> ---
+
 # 🦞 Awesome OpenClaw Tutorial
 # 🦞 一本书玩转OpenClaw：超级个体实战指南
 
